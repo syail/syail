@@ -3,10 +3,9 @@
 
 ### Tech Stack
 
-
-![image](https://user-images.githubusercontent.com/87570109/126104479-e05fa0e6-a197-4247-bbc4-3edd36414aed.png)
-![image](https://user-images.githubusercontent.com/87570109/126104541-5519c52c-5926-4a7e-a2e9-700a5ac766d3.png)
-![image](https://user-images.githubusercontent.com/87570109/126104562-69407350-80d8-447c-b18b-d71cf24e1112.png)
+<image src="https://user-images.githubusercontent.com/87570109/126104479-e05fa0e6-a197-4247-bbc4-3edd36414aed.png" width=100 height=100>
+<image src="https://user-images.githubusercontent.com/87570109/126104541-5519c52c-5926-4a7e-a2e9-700a5ac766d3.png" width=100 height=100>
+<image src="https://user-images.githubusercontent.com/87570109/126104562-69407350-80d8-447c-b18b-d71cf24e1112.png" width=100 height=100>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syail&count_private=true&theme=radical)
