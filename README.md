@@ -17,13 +17,6 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"></img>
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF"></img>
 
-### Environments
-
-<img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=FFFFFF"></img>
-<img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"></img>
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"></img>
-<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"></img>
-
 ### Contact
 
 <a href="https://t.me/brady0">
