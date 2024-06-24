@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51C4FF&repeat=false&random=false&width=435&lines=Welcome+to+syail's+github+homepage)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyail&count_bg=%2393DCFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Languages
 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"></img>
@@ -17,13 +15,18 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"></img>
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF"></img>
 
+### Currently learning techs...
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"></img>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"></img>
+
 ### Contact
 
 <a href="https://t.me/brady0">
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" ></img> 
 </a>
-<a href="mailto:xbkxl6111@gmail.com">
-    <img src="https://img.shields.io/badge/xbkxl6111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" ></img> 
+<a href="mailto:me@doyu.kim">
+    <img src="https://img.shields.io/badge/me@doyu.kim-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" ></img> 
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
