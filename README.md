@@ -22,9 +22,6 @@
 
 ### Contact
 
-<a href="https://t.me/brady0">
-    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF" ></img> 
-</a>
 <a href="mailto:me@doyu.kim">
     <img src="https://img.shields.io/badge/me@doyu.kim-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" ></img> 
 </a>
