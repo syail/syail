@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51C4FF&repeat=false&random=false&width=435&lines=Welcome+to+syail's+github+homepage)](https://git.io/typing-svg)
+### Welcome to my github
 
 ### Languages
 
@@ -15,12 +15,12 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"></img>
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF"></img>
 
-### Currently learning techs...
+### Currently learning techs
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"></img>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"></img>
 
-### Contact
+### Contacts
 
 <a href="mailto:me@doyu.kim">
     <img src="https://img.shields.io/badge/me@doyu.kim-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" ></img> 
